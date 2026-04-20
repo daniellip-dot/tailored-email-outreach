@@ -14,4 +14,3 @@ Two ways forward, whichever suits:
 
 Best,
 {sender_name}
-{sender_mobile}
