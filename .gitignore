@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.db
+research.db
+output.csv
+input.csv
+test_input.csv
+test_output.csv
+.DS_Store
